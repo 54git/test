@@ -2,7 +2,7 @@ pulic class test{
   
    public staitc void main(String[] args){
    
-      Systemt.out.println("Welocom to 54git.");
+      Systemt.out.println("Hello,Welocom to 54git.");
    
    }
    
